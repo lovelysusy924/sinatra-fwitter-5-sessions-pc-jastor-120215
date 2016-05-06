@@ -15,8 +15,25 @@
 body {
   font-family: Slabo;
   font-size: 27px ;
-  color: black;
+  color:#00BCD4;
+  font-weight: bold;
   text-align: center;
   background: url(https://49.media.tumblr.com/2c338e448405318aca12dafbf3cab459/tumblr_nk39mhMP2p1u7rqwto1_500.gif); 
   background-size: cover;
+}
+
+.style{
+  width:400px;
+  height:300px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
+  margin-left: 330px;
+  margin-right: 325px;
+  line-height:3em;
+  overflow:scroll;
+  padding:5px;
+  background-color:#64B5F6;
+  color: black;
+  border:4px double #DEBB07;"
 }
